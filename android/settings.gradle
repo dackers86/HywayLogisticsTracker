@@ -1,0 +1,3 @@
+rootProject.name = 'HywayLogisticsTracker'
+
+include ':app'
